@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![codewars](https://www.codewars.com/users/yourkesa/badges/large)](https://www.codewars.com/users/yourkesa)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyberkesa)](https://github.com/cyberkesa/leetcode-stats)
+
+
 
 <!--
 **cyberkesa/cyberkesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
