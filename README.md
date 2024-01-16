@@ -13,4 +13,4 @@ You can find my personal blog [cyberkesa.ru](https://cyberkesa.ru/), which I've 
 [![codewars](https://www.codewars.com/users/yourkesa/badges/large)](https://www.codewars.com/users/yourkesa)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyberkesa)](https://github.com/cyberkesa/leetcode-stats)
 
-![Metrics](https://metrics.lecoq.io/{cyberkesa})
+![Metrics](https://metrics.lecoq.io/cyberkesa)
