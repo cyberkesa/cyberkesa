@@ -11,6 +11,8 @@ In addition to my coding journey, I've been a graphic designer since 2016. I bri
 You can find my personal blog [cyberkesa.ru](https://cyberkesa.ru/), which I've built from the ground up. Stay tuned for exciting updates as I transition away from CMS to create a more customized experience.
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="С"  alt="С" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Сplusplus"  alt="Сplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
