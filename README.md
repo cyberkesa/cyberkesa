@@ -6,9 +6,21 @@ I'm currently working on honing my coding skills and expanding my knowledge in w
 
 As a web developer in the making, I am constantly learning and exploring new technologies to enhance my skill set.
 
-In addition to my coding journey, I've been a graphic designer since 2016 (Photoshop CS6). I bring a creative touch to my projects, merging design and functionality.
+In addition to my coding journey, I've been a graphic designer since 2016. I bring a creative touch to my projects, merging design and functionality.
 
 You can find my personal blog [cyberkesa.ru](https://cyberkesa.ru/), which I've built from the ground up. Stay tuned for exciting updates as I transition away from CMS to create a more customized experience.
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
 
 [![codewars](https://www.codewars.com/users/yourkesa/badges/large)](https://www.codewars.com/users/yourkesa)
 
